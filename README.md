@@ -1,2 +1,1 @@
-# piccollection
-自己收集的一些图片，自己比较懒，所以还是放在这个上面进行整理吧
+# piccollection 写markdown时需要加载的图片放在了这里
